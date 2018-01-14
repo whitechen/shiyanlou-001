@@ -7,12 +7,12 @@ Created on Wed Jan 10 22:42:51 2018
 
 print("Hello World!")
 
-mybicycles = ['trek', 'cannondale', 'redline', 'specialized']
-mybicycles.append('永久')
-mybicycles.append('凤凰')
+BICYCLES = ['trek', 'cannondale', 'redline', 'specialized']
+BICYCLES.append('永久')
+BICYCLES.append('凤凰')
 
-mymessage = "My first bicycle was a " + mybicycles[0].title() + "."
+MESSAGE = "My first bicycle was a " + BICYCLES[0].title() + "."
 
-print(mymessage)
+print(MESSAGE)
 
-print(mybicycles)
+print(BICYCLES)
