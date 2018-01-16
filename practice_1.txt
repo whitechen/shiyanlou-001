@@ -1,6 +1,3 @@
 this is for you cautions
-12345678
-
-abcdefghijk
-shiyanlou.com
-
+I like vim
+this is very cool editor
