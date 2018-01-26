@@ -1,6 +1,6 @@
 # CentOS 升级git到2.7.2版本
 
-[陈养彬 http://www.ybchen.com](http://www.ybchen.com "陈养彬") 2018-1-20 21:24:05 
+[陈养彬 http://www.ybchen.com](http://www.ybchen.com "陈养彬") 2018-1-20 21:24:05
 
 CentOS系统可以使用`yum install git`, CentOS 6.5默认的版本为1.7.1，对于很多的Git服务器来说，这个版本有些老了。
 因为最新Linux内核的git版本都到2.9.5了，所以我决定升级到2.7.2版本。
